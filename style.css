@@ -4,7 +4,7 @@
 body{
     margin: 0;
     padding: 0;
-    background-color: #ecfffb;
+    /* background-color: #ecfffb; */
     /* font-family: sans-serif; */
     color: black;
     font-family: 'Roboto', sans-serif;
@@ -58,6 +58,7 @@ nav{
     outline: none;
     border: 3px;
     width: 100%;
+    padding: 5px;
 }
 .caixa p{
     margin: 0;
